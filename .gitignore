@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+tutanak-*.txt
+.DS_Store
